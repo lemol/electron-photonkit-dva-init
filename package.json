@@ -9,5 +9,8 @@
   },
   "dependencies": {
     "electron": "^1.4.11"
+  },
+  "devDependencies": {
+    "electron-connect": "^0.6.1"
   }
 }
